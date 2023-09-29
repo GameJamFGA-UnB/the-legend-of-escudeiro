@@ -24,6 +24,6 @@ Aqui recomenda-se que sejam colocados os ícones da game engine e das linguagens
 Aqui sugere-se que sejam colocados ao menos os nomes de cada desenvolvedor envolvido na criação do seu jogo
 --->
 
-- Arthur Martins
+- [Arthur Martins](https://github.com/thetrulyvoid)
 - Expedito
 - [Víctor Moreira](https://github.com/aqela-batata-alt)
